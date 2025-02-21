@@ -1,0 +1,2523 @@
+{
+    "nodes": [
+        {
+            "id": 150,
+            "name": "chat",
+            "type": 1,
+            "w": 5591
+        },
+        {
+            "id": 12107,
+            "name": "danseuse",
+            "type": 1,
+            "w": 656
+        },
+        {
+            "id": 13369,
+            "name": "être",
+            "type": 1,
+            "w": 4289
+        },
+        {
+            "id": 17559,
+            "name": "animal",
+            "type": 1,
+            "w": 14427
+        },
+        {
+            "id": 19646,
+            "name": "protostomien",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 20528,
+            "name": "hominidé",
+            "type": 1,
+            "w": 212
+        },
+        {
+            "id": 24956,
+            "name": "être humain",
+            "type": 1,
+            "w": 860
+        },
+        {
+            "id": 25019,
+            "name": "prédateur",
+            "type": 1,
+            "w": 604
+        },
+        {
+            "id": 30459,
+            "name": "chasseur",
+            "type": 1,
+            "w": 1838
+        },
+        {
+            "id": 31424,
+            "name": "fauve",
+            "type": 1,
+            "w": 920
+        },
+        {
+            "id": 32714,
+            "name": "léopard",
+            "type": 1,
+            "w": 346
+        },
+        {
+            "id": 32851,
+            "name": "mammifères",
+            "type": 1,
+            "w": 2115
+        },
+        {
+            "id": 39101,
+            "name": "bête",
+            "type": 1,
+            "w": 1494
+        },
+        {
+            "id": 45393,
+            "name": "bête sauvage",
+            "type": 1,
+            "w": 68
+        },
+        {
+            "id": 47200,
+            "name": "serval",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 48855,
+            "name": "carnivore",
+            "type": 1,
+            "w": 1582
+        },
+        {
+            "id": 49293,
+            "name": "humain",
+            "type": 1,
+            "w": 3497
+        },
+        {
+            "id": 52413,
+            "name": "carnassier",
+            "type": 1,
+            "w": 404
+        },
+        {
+            "id": 54794,
+            "name": "eucaryote",
+            "type": 1,
+            "w": 206
+        },
+        {
+            "id": 55823,
+            "name": "métazoaire",
+            "type": 1,
+            "w": 192
+        },
+        {
+            "id": 58646,
+            "name": "lynx",
+            "type": 1,
+            "w": 334
+        },
+        {
+            "id": 58768,
+            "name": "organisme",
+            "type": 1,
+            "w": 2527
+        },
+        {
+            "id": 61490,
+            "name": "femme",
+            "type": 1,
+            "w": 31064
+        },
+        {
+            "id": 63235,
+            "name": "mammifère",
+            "type": 1,
+            "w": 3707
+        },
+        {
+            "id": 65081,
+            "name": "organisme vivant",
+            "type": 1,
+            "w": 160
+        },
+        {
+            "id": 67440,
+            "name": "hexapode",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 68439,
+            "name": "individu",
+            "type": 1,
+            "w": 6242
+        },
+        {
+            "id": 69943,
+            "name": "fleuve",
+            "type": 1,
+            "w": 3486
+        },
+        {
+            "id": 71539,
+            "name": "animaux",
+            "type": 1,
+            "w": 3515
+        },
+        {
+            "id": 71624,
+            "name": "être vivant",
+            "type": 1,
+            "w": 1908
+        },
+        {
+            "id": 71926,
+            "name": "insecte",
+            "type": 1,
+            "w": 3858
+        },
+        {
+            "id": 74860,
+            "name": "homme",
+            "type": 1,
+            "w": 29222
+        },
+        {
+            "id": 77587,
+            "name": "invertébré",
+            "type": 1,
+            "w": 382
+        },
+        {
+            "id": 81027,
+            "name": "félidés",
+            "type": 1,
+            "w": 132
+        },
+        {
+            "id": 82231,
+            "name": "félidé",
+            "type": 1,
+            "w": 826
+        },
+        {
+            "id": 86640,
+            "name": "vertébré",
+            "type": 1,
+            "w": 940
+        },
+        {
+            "id": 86756,
+            "name": "lion",
+            "type": 1,
+            "w": 3070
+        },
+        {
+            "id": 87789,
+            "name": "coelomate",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 91794,
+            "name": "tétrapode",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 98919,
+            "name": "jaguar",
+            "type": 1,
+            "w": 238
+        },
+        {
+            "id": 101018,
+            "name": "gnathostome",
+            "type": 1,
+            "w": 94
+        },
+        {
+            "id": 101689,
+            "name": "être animé",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 103416,
+            "name": "euthérien",
+            "type": 1,
+            "w": 60
+        },
+        {
+            "id": 106270,
+            "name": "arthropode",
+            "type": 1,
+            "w": 314
+        },
+        {
+            "id": 108062,
+            "name": "placentaire",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 110773,
+            "name": "amniote",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 112511,
+            "name": "quadrupède",
+            "type": 1,
+            "w": 386
+        },
+        {
+            "id": 113583,
+            "name": "panthère",
+            "type": 1,
+            "w": 980
+        },
+        {
+            "id": 115304,
+            "name": "deutérostomien",
+            "type": 1,
+            "w": 122
+        },
+        {
+            "id": 116032,
+            "name": "félin",
+            "type": 1,
+            "w": 2368
+        },
+        {
+            "id": 116477,
+            "name": "personne",
+            "type": 1,
+            "w": 10603
+        },
+        {
+            "id": 121301,
+            "name": "tigrer",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 123933,
+            "name": "entité",
+            "type": 1,
+            "w": 1441
+        },
+        {
+            "id": 128439,
+            "name": "superprédateur",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 134253,
+            "name": "hyponeurien",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 135190,
+            "name": "lieu",
+            "type": 1,
+            "w": 3979
+        },
+        {
+            "id": 137333,
+            "name": "tigre",
+            "type": 1,
+            "w": 1502
+        },
+        {
+            "id": 142235,
+            "name": "Félidés",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 142602,
+            "name": "cordé",
+            "type": 1,
+            "w": 120
+        },
+        {
+            "id": 151966,
+            "name": "mangeur d'homme",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 152973,
+            "name": "animal sauvage",
+            "type": 1,
+            "w": 946
+        },
+        {
+            "id": 156371,
+            "name": "mamifère",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 157007,
+            "name": "être>146885",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 157284,
+            "name": "lieu>68467",
+            "type": 1,
+            "w": 58
+        },
+        {
+            "id": 164531,
+            "name": "mammifère carnivore",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 164697,
+            "name": "grand fauve",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 175174,
+            "name": "hémiptère",
+            "type": 1,
+            "w": 36
+        },
+        {
+            "id": 175539,
+            "name": "Felidae",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 175721,
+            "name": "mandibulé",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 175842,
+            "name": "panthériné",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 183629,
+            "name": "personne physique",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 189875,
+            "name": "personne humaine",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 213466,
+            "name": "chat>63235",
+            "type": 1,
+            "w": 668
+        },
+        {
+            "id": 215800,
+            "name": "bête>17559",
+            "type": 1,
+            "w": 104
+        },
+        {
+            "id": 218940,
+            "name": "poisson>17559",
+            "type": 1,
+            "w": 650
+        },
+        {
+            "id": 220013,
+            "name": "femme>4333487",
+            "type": 1,
+            "w": 940
+        },
+        {
+            "id": 220342,
+            "name": "fauve>17559>116032",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 220343,
+            "name": "fauve>17559>152973",
+            "type": 1,
+            "w": 20
+        },
+        {
+            "id": 221983,
+            "name": "homme>24956",
+            "type": 1,
+            "w": 296
+        },
+        {
+            "id": 221984,
+            "name": "homme>4333488",
+            "type": 1,
+            "w": 290
+        },
+        {
+            "id": 225847,
+            "name": "organisme>71624",
+            "type": 1,
+            "w": 110
+        },
+        {
+            "id": 225916,
+            "name": "personne>24956",
+            "type": 1,
+            "w": 798
+        },
+        {
+            "id": 226083,
+            "name": "humain>46707",
+            "type": 1,
+            "w": 106
+        },
+        {
+            "id": 232580,
+            "name": "animal errant",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 233133,
+            "name": "animal>117095",
+            "type": 1,
+            "w": 928
+        },
+        {
+            "id": 234036,
+            "name": "être vivant>123933",
+            "type": 1,
+            "w": 278
+        },
+        {
+            "id": 237445,
+            "name": "être>68439",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 244011,
+            "name": "jaguar>17559",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 244620,
+            "name": "être humain>189875",
+            "type": 1,
+            "w": 178
+        },
+        {
+            "id": 247024,
+            "name": "félin>17559",
+            "type": 1,
+            "w": 88
+        },
+        {
+            "id": 247483,
+            "name": "lion>116032",
+            "type": 1,
+            "w": 108
+        },
+        {
+            "id": 247964,
+            "name": "panthère>82231",
+            "type": 1,
+            "w": 80
+        },
+        {
+            "id": 248081,
+            "name": "chordé",
+            "type": 1,
+            "w": 232
+        },
+        {
+            "id": 251764,
+            "name": "insecte>17559",
+            "type": 1,
+            "w": 426
+        },
+        {
+            "id": 256546,
+            "name": "personne de sexe féminin",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 260820,
+            "name": "entité vivante",
+            "type": 1,
+            "w": 76
+        },
+        {
+            "id": 260830,
+            "name": "primate>117095",
+            "type": 1,
+            "w": 28
+        },
+        {
+            "id": 261960,
+            "name": "espèce menacée",
+            "type": 1,
+            "w": 46
+        },
+        {
+            "id": 261961,
+            "name": "grand félin",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 264176,
+            "name": "animal de cirque",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 264598,
+            "name": "prédateur>117095",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 264880,
+            "name": "bilatérien",
+            "type": 1,
+            "w": 82
+        },
+        {
+            "id": 264881,
+            "name": "crânié",
+            "type": 1,
+            "w": 64
+        },
+        {
+            "id": 264908,
+            "name": "eumétazoaire",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 265220,
+            "name": "épineurien",
+            "type": 1,
+            "w": 32
+        },
+        {
+            "id": 265226,
+            "name": "thérien",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 265277,
+            "name": "crâniate",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 265633,
+            "name": "animal terrestre",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 265839,
+            "name": "synapside",
+            "type": 1,
+            "w": 30
+        },
+        {
+            "id": 267642,
+            "name": "organisme animal",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 290611,
+            "name": "panthère nébuleuse",
+            "type": 777,
+            "w": 72
+        },
+        {
+            "id": 316850,
+            "name": "entité physique",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 317214,
+            "name": "carnivore>24679",
+            "type": 1,
+            "w": 26
+        },
+        {
+            "id": 317929,
+            "name": "olfactorien",
+            "type": 1,
+            "w": 46
+        },
+        {
+            "id": 318464,
+            "name": "ecdysozoaire",
+            "type": 1,
+            "w": 10
+        },
+        {
+            "id": 325728,
+            "name": "uniconte",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 325731,
+            "name": "opisthoconte",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 325736,
+            "name": "holozoaire",
+            "type": 1,
+            "w": 70
+        },
+        {
+            "id": 325738,
+            "name": "filozoaire",
+            "type": 1,
+            "w": 98
+        },
+        {
+            "id": 325741,
+            "name": "choanobionte",
+            "type": 1,
+            "w": 90
+        },
+        {
+            "id": 326289,
+            "name": "panarthropode",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 329634,
+            "name": "euarthropode",
+            "type": 1,
+            "w": 14
+        },
+        {
+            "id": 329635,
+            "name": "mandibulate",
+            "type": 1,
+            "w": 12
+        },
+        {
+            "id": 329636,
+            "name": "pancrustacé",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 329657,
+            "name": "choano-organisme",
+            "type": 1,
+            "w": 66
+        },
+        {
+            "id": 330964,
+            "name": "cordé>117095",
+            "type": 1,
+            "w": 42
+        },
+        {
+            "id": 331030,
+            "name": "féliforme",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 331034,
+            "name": "féloïdé",
+            "type": 1,
+            "w": 52
+        },
+        {
+            "id": 335410,
+            "name": "animal féroce",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 390798,
+            "name": "myomérozoaire",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 391009,
+            "name": "célomate",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 391010,
+            "name": "coelomé",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 396042,
+            "name": "tétrapode>86640",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 396146,
+            "name": "thérapside",
+            "type": 1,
+            "w": 56
+        },
+        {
+            "id": 396149,
+            "name": "cynodonte",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 396247,
+            "name": "individu>24956",
+            "type": 1,
+            "w": 174
+        },
+        {
+            "id": 436570,
+            "name": "entité biologique",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 438159,
+            "name": "danseuse>145605",
+            "type": 1,
+            "w": 62
+        },
+        {
+            "id": 685493,
+            "name": "humain>171870",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 1196397,
+            "name": "::>66:17559>17:81997",
+            "type": 8,
+            "w": 0
+        },
+        {
+            "id": 1395235,
+            "name": "être>171870",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 1483990,
+            "name": "être vivant non humain",
+            "type": 1,
+            "w": 8
+        },
+        {
+            "id": 1655534,
+            "name": "cœlomate",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 1916038,
+            "name": "panthère nébuleuse de Bornéo",
+            "type": 1,
+            "w": 16
+        },
+        {
+            "id": 2461482,
+            "name": "métazoaire supérieur",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 2464206,
+            "name": "quadripède",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 3263171,
+            "name": "protostome",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 3378472,
+            "name": "animal mâle",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 4333487,
+            "name": "être humain de sexe féminin",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 4333488,
+            "name": "être humain de sexe masculin",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 4874313,
+            "name": "femme>24956",
+            "type": 1,
+            "w": 4
+        },
+        {
+            "id": 4891735,
+            "name": "animal dangereux",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 6737046,
+            "name": "fauve>17559",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 6913330,
+            "name": "en:felidae",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 7053316,
+            "name": "en:metazoa",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 7095246,
+            "name": "en:amniota",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 8955777,
+            "name": "prédateur crépusculaire",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 8969274,
+            "name": "animal à rayures",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 9160330,
+            "name": "en:family felidae",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 12321907,
+            "name": "en:eukaryote",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 12694633,
+            "name": "Panthère nébuleuse",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 14049819,
+            "name": "néphrozoaire",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 14049831,
+            "name": "organisme vivant pluricellulaire hétérotrophe",
+            "type": 1,
+            "w": 6
+        },
+        {
+            "id": 14049840,
+            "name": "organisme vivant pluricellulaire",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 14049844,
+            "name": "organisme vivant hétérotrophe",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 14563669,
+            "name": "grand carnivore",
+            "type": 1,
+            "w": 44
+        },
+        {
+            "id": 14606397,
+            "name": "organisme hétérotrophe",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 14919905,
+            "name": "en:wild animal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 14935827,
+            "name": "en:physical feature",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 14937962,
+            "name": "en:big cat",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 14940408,
+            "name": "en:gnathostome",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 14961101,
+            "name": "en:serval",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15043900,
+            "name": "en:family Felidae",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15287364,
+            "name": "en:metazoon",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15413415,
+            "name": "animal en liberté",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15413416,
+            "name": "en:unrestrained animal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15413417,
+            "name": "en:free-range animal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15413418,
+            "name": "en:free-ranging animal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15413419,
+            "name": "en:animal that is free to roam",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15413420,
+            "name": "en:stray animal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15413421,
+            "name": "en:feral animal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15413422,
+            "name": "en:free animal",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15413427,
+            "name": "en:wild beast",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 15781381,
+            "name": "vrai métazoaire",
+            "type": 1,
+            "w": 2
+        },
+        {
+            "id": 16072125,
+            "name": "Animal dangereux",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 16769770,
+            "name": "Panthère nébuleuse de Bornéo",
+            "type": 777,
+            "w": 0
+        },
+        {
+            "id": 108531734,
+            "name": "Animal sauvage",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 143762329,
+            "name": "Organisme vivant",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 180023606,
+            "name": "symbole de force",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 246153024,
+            "name": "être humain>74860",
+            "type": 1,
+            "w": 50
+        },
+        {
+            "id": 270242998,
+            "name": "être masculin",
+            "type": 1,
+            "w": 0
+        },
+        {
+            "id": 270242999,
+            "name": "être féminin",
+            "type": 1,
+            "w": 0
+        }
+    ],
+    "relations": [
+        {
+            "id": 386065383,
+            "node1": 137333,
+            "node2": 150,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 15756113,
+            "node1": 137333,
+            "node2": 12107,
+            "type": 6,
+            "w": 246.0
+        },
+        {
+            "id": 97711722,
+            "node1": 137333,
+            "node2": 13369,
+            "type": 6,
+            "w": 10.0
+        },
+        {
+            "id": 108740,
+            "node1": 137333,
+            "node2": 17559,
+            "type": 6,
+            "w": 531.0
+        },
+        {
+            "id": 11668428,
+            "node1": 137333,
+            "node2": 19646,
+            "type": 6,
+            "w": 206.0
+        },
+        {
+            "id": 578632134,
+            "node1": 137333,
+            "node2": 20528,
+            "type": 6,
+            "w": 37.0
+        },
+        {
+            "id": 15756328,
+            "node1": 137333,
+            "node2": 24956,
+            "type": 6,
+            "w": 148.0
+        },
+        {
+            "id": 114281,
+            "node1": 137333,
+            "node2": 25019,
+            "type": 6,
+            "w": 327.0
+        },
+        {
+            "id": 1714901,
+            "node1": 137333,
+            "node2": 30459,
+            "type": 6,
+            "w": 4.0
+        },
+        {
+            "id": 111675,
+            "node1": 137333,
+            "node2": 31424,
+            "type": 6,
+            "w": 525.0
+        },
+        {
+            "id": 386065384,
+            "node1": 137333,
+            "node2": 32714,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 539961361,
+            "node1": 137333,
+            "node2": 32851,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 111672,
+            "node1": 137333,
+            "node2": 39101,
+            "type": 6,
+            "w": 244.0
+        },
+        {
+            "id": 2242891,
+            "node1": 137333,
+            "node2": 45393,
+            "type": 6,
+            "w": 83.0
+        },
+        {
+            "id": 386065385,
+            "node1": 137333,
+            "node2": 47200,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 108733,
+            "node1": 137333,
+            "node2": 48855,
+            "type": 6,
+            "w": 276.0
+        },
+        {
+            "id": 530656635,
+            "node1": 137333,
+            "node2": 49293,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 159431,
+            "node1": 137333,
+            "node2": 52413,
+            "type": 6,
+            "w": 303.0
+        },
+        {
+            "id": 10926987,
+            "node1": 137333,
+            "node2": 54794,
+            "type": 6,
+            "w": 90.0
+        },
+        {
+            "id": 9611275,
+            "node1": 137333,
+            "node2": 55823,
+            "type": 6,
+            "w": 126.0
+        },
+        {
+            "id": 386065386,
+            "node1": 137333,
+            "node2": 58646,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 97055558,
+            "node1": 137333,
+            "node2": 58768,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 97322365,
+            "node1": 137333,
+            "node2": 61490,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 111671,
+            "node1": 137333,
+            "node2": 63235,
+            "type": 6,
+            "w": 233.0
+        },
+        {
+            "id": 13514371,
+            "node1": 137333,
+            "node2": 65081,
+            "type": 6,
+            "w": 73.0
+        },
+        {
+            "id": 11362103,
+            "node1": 137333,
+            "node2": 67440,
+            "type": 6,
+            "w": 243.0
+        },
+        {
+            "id": 15756120,
+            "node1": 137333,
+            "node2": 68439,
+            "type": 6,
+            "w": 85.0
+        },
+        {
+            "id": 940259665,
+            "node1": 137333,
+            "node2": 69943,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 539961362,
+            "node1": 137333,
+            "node2": 71539,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 116626,
+            "node1": 137333,
+            "node2": 71624,
+            "type": 6,
+            "w": 86.0
+        },
+        {
+            "id": 2242889,
+            "node1": 137333,
+            "node2": 71926,
+            "type": 6,
+            "w": 253.0
+        },
+        {
+            "id": 529903537,
+            "node1": 137333,
+            "node2": 74860,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 2940388,
+            "node1": 137333,
+            "node2": 77587,
+            "type": 6,
+            "w": 195.0
+        },
+        {
+            "id": 114092,
+            "node1": 137333,
+            "node2": 81027,
+            "type": 6,
+            "w": -217.0
+        },
+        {
+            "id": 108736,
+            "node1": 137333,
+            "node2": 82231,
+            "type": 6,
+            "w": 496.0
+        },
+        {
+            "id": 136583,
+            "node1": 137333,
+            "node2": 86640,
+            "type": 6,
+            "w": 162.0
+        },
+        {
+            "id": 386065387,
+            "node1": 137333,
+            "node2": 86756,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 79926201,
+            "node1": 137333,
+            "node2": 87789,
+            "type": 6,
+            "w": 49.0
+        },
+        {
+            "id": 14402149,
+            "node1": 137333,
+            "node2": 91794,
+            "type": 6,
+            "w": 178.0
+        },
+        {
+            "id": 386065388,
+            "node1": 137333,
+            "node2": 98919,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 14402260,
+            "node1": 137333,
+            "node2": 101018,
+            "type": 6,
+            "w": 166.0
+        },
+        {
+            "id": 314932056,
+            "node1": 137333,
+            "node2": 101689,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 97055576,
+            "node1": 137333,
+            "node2": 103416,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 2990045,
+            "node1": 137333,
+            "node2": 106270,
+            "type": 6,
+            "w": 224.0
+        },
+        {
+            "id": 97055580,
+            "node1": 137333,
+            "node2": 108062,
+            "type": 6,
+            "w": 54.0
+        },
+        {
+            "id": 9920973,
+            "node1": 137333,
+            "node2": 110773,
+            "type": 6,
+            "w": 187.0
+        },
+        {
+            "id": 2588588,
+            "node1": 137333,
+            "node2": 112511,
+            "type": 6,
+            "w": 183.0
+        },
+        {
+            "id": 386065389,
+            "node1": 137333,
+            "node2": 113583,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 10749738,
+            "node1": 137333,
+            "node2": 115304,
+            "type": 6,
+            "w": 138.0
+        },
+        {
+            "id": 108739,
+            "node1": 137333,
+            "node2": 116032,
+            "type": 6,
+            "w": 897.0
+        },
+        {
+            "id": 15756869,
+            "node1": 137333,
+            "node2": 116477,
+            "type": 6,
+            "w": 74.0
+        },
+        {
+            "id": 12969102,
+            "node1": 137333,
+            "node2": 121301,
+            "type": 6,
+            "w": -30.0
+        },
+        {
+            "id": 97055588,
+            "node1": 137333,
+            "node2": 123933,
+            "type": 6,
+            "w": 32.0
+        },
+        {
+            "id": 9907847,
+            "node1": 137333,
+            "node2": 128439,
+            "type": 6,
+            "w": 56.0
+        },
+        {
+            "id": 11253272,
+            "node1": 137333,
+            "node2": 134253,
+            "type": 6,
+            "w": -201.0
+        },
+        {
+            "id": 629871,
+            "node1": 137333,
+            "node2": 135190,
+            "type": 6,
+            "w": -152.0
+        },
+        {
+            "id": 13603845,
+            "node1": 137333,
+            "node2": 142235,
+            "type": 6,
+            "w": -238.0
+        },
+        {
+            "id": 10921491,
+            "node1": 137333,
+            "node2": 142602,
+            "type": 6,
+            "w": 139.0
+        },
+        {
+            "id": 382919,
+            "node1": 137333,
+            "node2": 151966,
+            "type": 6,
+            "w": 184.0
+        },
+        {
+            "id": 1591309,
+            "node1": 137333,
+            "node2": 152973,
+            "type": 6,
+            "w": 243.0
+        },
+        {
+            "id": 578632135,
+            "node1": 137333,
+            "node2": 156371,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 97953003,
+            "node1": 137333,
+            "node2": 157007,
+            "type": 6,
+            "w": 6.0
+        },
+        {
+            "id": 11946628,
+            "node1": 137333,
+            "node2": 157284,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 9907706,
+            "node1": 137333,
+            "node2": 164531,
+            "type": 6,
+            "w": 302.0
+        },
+        {
+            "id": 2242890,
+            "node1": 137333,
+            "node2": 164697,
+            "type": 6,
+            "w": 287.0
+        },
+        {
+            "id": 12127282,
+            "node1": 137333,
+            "node2": 175174,
+            "type": 6,
+            "w": 293.0
+        },
+        {
+            "id": 255910345,
+            "node1": 137333,
+            "node2": 175539,
+            "type": 6,
+            "w": -26.0
+        },
+        {
+            "id": 13604154,
+            "node1": 137333,
+            "node2": 175721,
+            "type": 6,
+            "w": 233.0
+        },
+        {
+            "id": 97055602,
+            "node1": 137333,
+            "node2": 175842,
+            "type": 6,
+            "w": 55.0
+        },
+        {
+            "id": 693740043,
+            "node1": 137333,
+            "node2": 183629,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 607880468,
+            "node1": 137333,
+            "node2": 189875,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 386065390,
+            "node1": 137333,
+            "node2": 213466,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 2215583,
+            "node1": 137333,
+            "node2": 215800,
+            "type": 6,
+            "w": 159.0
+        },
+        {
+            "id": 13749436,
+            "node1": 137333,
+            "node2": 218940,
+            "type": 6,
+            "w": -10.0
+        },
+        {
+            "id": 97322366,
+            "node1": 137333,
+            "node2": 220013,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 2162662,
+            "node1": 137333,
+            "node2": 220342,
+            "type": 6,
+            "w": 328.0
+        },
+        {
+            "id": 2055411,
+            "node1": 137333,
+            "node2": 220343,
+            "type": 6,
+            "w": 353.0
+        },
+        {
+            "id": 383946064,
+            "node1": 137333,
+            "node2": 221983,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 530010952,
+            "node1": 137333,
+            "node2": 221984,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 13603259,
+            "node1": 137333,
+            "node2": 225847,
+            "type": 6,
+            "w": 75.0
+        },
+        {
+            "id": 15756142,
+            "node1": 137333,
+            "node2": 225916,
+            "type": 6,
+            "w": 68.0
+        },
+        {
+            "id": 723107605,
+            "node1": 137333,
+            "node2": 226083,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 600365280,
+            "node1": 137333,
+            "node2": 232580,
+            "type": 6,
+            "w": 36.0
+        },
+        {
+            "id": 1956119,
+            "node1": 137333,
+            "node2": 233133,
+            "type": 6,
+            "w": 124.0
+        },
+        {
+            "id": 3186373,
+            "node1": 137333,
+            "node2": 234036,
+            "type": 6,
+            "w": 78.0
+        },
+        {
+            "id": 14026499,
+            "node1": 137333,
+            "node2": 237445,
+            "type": 6,
+            "w": 77.0
+        },
+        {
+            "id": 386065391,
+            "node1": 137333,
+            "node2": 244011,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 15756715,
+            "node1": 137333,
+            "node2": 244620,
+            "type": 6,
+            "w": 128.0
+        },
+        {
+            "id": 13515620,
+            "node1": 137333,
+            "node2": 247024,
+            "type": 6,
+            "w": 307.0
+        },
+        {
+            "id": 386065392,
+            "node1": 137333,
+            "node2": 247483,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 386065393,
+            "node1": 137333,
+            "node2": 247964,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 2895457,
+            "node1": 137333,
+            "node2": 248081,
+            "type": 6,
+            "w": 150.0
+        },
+        {
+            "id": 11678647,
+            "node1": 137333,
+            "node2": 251764,
+            "type": 6,
+            "w": 271.0
+        },
+        {
+            "id": 958727459,
+            "node1": 137333,
+            "node2": 256546,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 13976917,
+            "node1": 137333,
+            "node2": 260820,
+            "type": 6,
+            "w": 80.0
+        },
+        {
+            "id": 578637524,
+            "node1": 137333,
+            "node2": 260830,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 765786047,
+            "node1": 137333,
+            "node2": 261960,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 76506814,
+            "node1": 137333,
+            "node2": 261961,
+            "type": 6,
+            "w": 60.0
+        },
+        {
+            "id": 213913439,
+            "node1": 137333,
+            "node2": 264176,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 97055624,
+            "node1": 137333,
+            "node2": 264598,
+            "type": 6,
+            "w": 51.0
+        },
+        {
+            "id": 10755025,
+            "node1": 137333,
+            "node2": 264880,
+            "type": 6,
+            "w": 135.0
+        },
+        {
+            "id": 10766663,
+            "node1": 137333,
+            "node2": 264881,
+            "type": 6,
+            "w": 159.0
+        },
+        {
+            "id": 10778870,
+            "node1": 137333,
+            "node2": 264908,
+            "type": 6,
+            "w": 131.0
+        },
+        {
+            "id": 11253626,
+            "node1": 137333,
+            "node2": 265220,
+            "type": 6,
+            "w": 145.0
+        },
+        {
+            "id": 97055626,
+            "node1": 137333,
+            "node2": 265226,
+            "type": 6,
+            "w": 53.0
+        },
+        {
+            "id": 10861759,
+            "node1": 137333,
+            "node2": 265277,
+            "type": 6,
+            "w": 164.0
+        },
+        {
+            "id": 97055628,
+            "node1": 137333,
+            "node2": 265633,
+            "type": 6,
+            "w": 52.0
+        },
+        {
+            "id": 10760286,
+            "node1": 137333,
+            "node2": 265839,
+            "type": 6,
+            "w": 188.0
+        },
+        {
+            "id": 80361318,
+            "node1": 137333,
+            "node2": 267642,
+            "type": 6,
+            "w": 42.0
+        },
+        {
+            "id": 386065394,
+            "node1": 137333,
+            "node2": 290611,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 83921212,
+            "node1": 137333,
+            "node2": 316850,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 9929326,
+            "node1": 137333,
+            "node2": 317214,
+            "type": 6,
+            "w": 218.0
+        },
+        {
+            "id": 10784127,
+            "node1": 137333,
+            "node2": 317929,
+            "type": 6,
+            "w": 159.0
+        },
+        {
+            "id": 11667926,
+            "node1": 137333,
+            "node2": 318464,
+            "type": 6,
+            "w": 207.0
+        },
+        {
+            "id": 11148445,
+            "node1": 137333,
+            "node2": 325728,
+            "type": 6,
+            "w": 105.0
+        },
+        {
+            "id": 11141824,
+            "node1": 137333,
+            "node2": 325731,
+            "type": 6,
+            "w": 97.0
+        },
+        {
+            "id": 11135206,
+            "node1": 137333,
+            "node2": 325736,
+            "type": 6,
+            "w": 110.0
+        },
+        {
+            "id": 11128502,
+            "node1": 137333,
+            "node2": 325738,
+            "type": 6,
+            "w": 106.0
+        },
+        {
+            "id": 11119032,
+            "node1": 137333,
+            "node2": 325741,
+            "type": 6,
+            "w": 118.0
+        },
+        {
+            "id": 11667444,
+            "node1": 137333,
+            "node2": 326289,
+            "type": 6,
+            "w": 210.0
+        },
+        {
+            "id": 11666753,
+            "node1": 137333,
+            "node2": 329634,
+            "type": 6,
+            "w": 215.0
+        },
+        {
+            "id": 11665584,
+            "node1": 137333,
+            "node2": 329635,
+            "type": 6,
+            "w": 230.0
+        },
+        {
+            "id": 11665078,
+            "node1": 137333,
+            "node2": 329636,
+            "type": 6,
+            "w": 239.0
+        },
+        {
+            "id": 14414116,
+            "node1": 137333,
+            "node2": 329657,
+            "type": 6,
+            "w": 108.0
+        },
+        {
+            "id": 12045167,
+            "node1": 137333,
+            "node2": 330964,
+            "type": 6,
+            "w": 148.0
+        },
+        {
+            "id": 13572558,
+            "node1": 137333,
+            "node2": 331030,
+            "type": 6,
+            "w": 299.0
+        },
+        {
+            "id": 13515571,
+            "node1": 137333,
+            "node2": 331034,
+            "type": 6,
+            "w": 307.0
+        },
+        {
+            "id": 776155416,
+            "node1": 137333,
+            "node2": 335410,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 578632136,
+            "node1": 137333,
+            "node2": 390798,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 79918442,
+            "node1": 137333,
+            "node2": 391009,
+            "type": 6,
+            "w": 48.0
+        },
+        {
+            "id": 79933960,
+            "node1": 137333,
+            "node2": 391010,
+            "type": 6,
+            "w": 52.0
+        },
+        {
+            "id": 78637766,
+            "node1": 137333,
+            "node2": 396042,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 83361664,
+            "node1": 137333,
+            "node2": 396146,
+            "type": 6,
+            "w": -30.0
+        },
+        {
+            "id": 83348320,
+            "node1": 137333,
+            "node2": 396149,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 15756141,
+            "node1": 137333,
+            "node2": 396247,
+            "type": 6,
+            "w": 205.0
+        },
+        {
+            "id": 83902475,
+            "node1": 137333,
+            "node2": 436570,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 97322367,
+            "node1": 137333,
+            "node2": 438159,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 775972458,
+            "node1": 137333,
+            "node2": 685493,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 22328602,
+            "node1": 137333,
+            "node2": 1196397,
+            "type": 6,
+            "w": 3.0
+        },
+        {
+            "id": 383950072,
+            "node1": 137333,
+            "node2": 1395235,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 24534710,
+            "node1": 137333,
+            "node2": 1483990,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 479729196,
+            "node1": 137333,
+            "node2": 1655534,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 386065437,
+            "node1": 137333,
+            "node2": 1916038,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 383992161,
+            "node1": 137333,
+            "node2": 2461482,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 61445576,
+            "node1": 137333,
+            "node2": 2464206,
+            "type": 6,
+            "w": 46.0
+        },
+        {
+            "id": 377160292,
+            "node1": 137333,
+            "node2": 3263171,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 86538069,
+            "node1": 137333,
+            "node2": 3378472,
+            "type": 6,
+            "w": 140.0
+        },
+        {
+            "id": 298631382,
+            "node1": 137333,
+            "node2": 4333487,
+            "type": 6,
+            "w": 38.0
+        },
+        {
+            "id": 561716329,
+            "node1": 137333,
+            "node2": 4333488,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 721553880,
+            "node1": 137333,
+            "node2": 4874313,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 102008223,
+            "node1": 137333,
+            "node2": 4891735,
+            "type": 6,
+            "w": 109.0
+        },
+        {
+            "id": 123102389,
+            "node1": 137333,
+            "node2": 6737046,
+            "type": 6,
+            "w": 2.0
+        },
+        {
+            "id": 255910354,
+            "node1": 137333,
+            "node2": 6913330,
+            "type": 6,
+            "w": -34.0
+        },
+        {
+            "id": 704935068,
+            "node1": 137333,
+            "node2": 7053316,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 776111560,
+            "node1": 137333,
+            "node2": 7095246,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 193646331,
+            "node1": 137333,
+            "node2": 8955777,
+            "type": 6,
+            "w": 137.0
+        },
+        {
+            "id": 193871345,
+            "node1": 137333,
+            "node2": 8969274,
+            "type": 6,
+            "w": 85.0
+        },
+        {
+            "id": 377270315,
+            "node1": 137333,
+            "node2": 9160330,
+            "type": 6,
+            "w": -26.0
+        },
+        {
+            "id": 377456024,
+            "node1": 137333,
+            "node2": 12321907,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 389988668,
+            "node1": 137333,
+            "node2": 12694633,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 359552788,
+            "node1": 137333,
+            "node2": 14049819,
+            "type": 6,
+            "w": 40.0
+        },
+        {
+            "id": 357100205,
+            "node1": 137333,
+            "node2": 14049831,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 357264954,
+            "node1": 137333,
+            "node2": 14049840,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 359478186,
+            "node1": 137333,
+            "node2": 14049844,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 765786060,
+            "node1": 137333,
+            "node2": 14563669,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 765913220,
+            "node1": 137333,
+            "node2": 14606397,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 597524700,
+            "node1": 137333,
+            "node2": 14919905,
+            "type": 6,
+            "w": 29.0
+        },
+        {
+            "id": 774724846,
+            "node1": 137333,
+            "node2": 14935827,
+            "type": 6,
+            "w": -25.0
+        },
+        {
+            "id": 599783896,
+            "node1": 137333,
+            "node2": 14937962,
+            "type": 6,
+            "w": 41.0
+        },
+        {
+            "id": 391409131,
+            "node1": 137333,
+            "node2": 14940408,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 620002996,
+            "node1": 137333,
+            "node2": 14961101,
+            "type": 6,
+            "w": -26.0
+        },
+        {
+            "id": 603734418,
+            "node1": 137333,
+            "node2": 15043900,
+            "type": 6,
+            "w": -26.0
+        },
+        {
+            "id": 775313769,
+            "node1": 137333,
+            "node2": 15287364,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 599736035,
+            "node1": 137333,
+            "node2": 15413415,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 599757212,
+            "node1": 137333,
+            "node2": 15413416,
+            "type": 6,
+            "w": 43.0
+        },
+        {
+            "id": 599757307,
+            "node1": 137333,
+            "node2": 15413417,
+            "type": 6,
+            "w": 31.0
+        },
+        {
+            "id": 599757402,
+            "node1": 137333,
+            "node2": 15413418,
+            "type": 6,
+            "w": 35.0
+        },
+        {
+            "id": 599757497,
+            "node1": 137333,
+            "node2": 15413419,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 599757592,
+            "node1": 137333,
+            "node2": 15413420,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 599741147,
+            "node1": 137333,
+            "node2": 15413421,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 599741242,
+            "node1": 137333,
+            "node2": 15413422,
+            "type": 6,
+            "w": 34.0
+        },
+        {
+            "id": 600377425,
+            "node1": 137333,
+            "node2": 15413427,
+            "type": 6,
+            "w": 28.0
+        },
+        {
+            "id": 618864832,
+            "node1": 137333,
+            "node2": 15781381,
+            "type": 6,
+            "w": 26.0
+        },
+        {
+            "id": 618910838,
+            "node1": 137333,
+            "node2": 16072125,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 758527346,
+            "node1": 137333,
+            "node2": 16769770,
+            "type": 6,
+            "w": 15.0
+        },
+        {
+            "id": 540935035,
+            "node1": 137333,
+            "node2": 108531734,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 706210616,
+            "node1": 137333,
+            "node2": 143762329,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 765786073,
+            "node1": 137333,
+            "node2": 180023606,
+            "type": 6,
+            "w": 27.0
+        },
+        {
+            "id": 639876707,
+            "node1": 137333,
+            "node2": 246153024,
+            "type": 6,
+            "w": 25.0
+        },
+        {
+            "id": 696706599,
+            "node1": 137333,
+            "node2": 270242998,
+            "type": 6,
+            "w": 30.0
+        },
+        {
+            "id": 696710789,
+            "node1": 137333,
+            "node2": 270242999,
+            "type": 6,
+            "w": 27.0
+        }
+    ],
+    "request": {
+        "types_ids": [
+            6
+        ],
+        "not_types_ids": null,
+        "min_weight": null,
+        "max_weight": null,
+        "start": "2025-02-20T16:27:01.478505",
+        "relation_fields": [
+            "id",
+            "node1",
+            "node2",
+            "type",
+            "w"
+        ],
+        "node_fields": [
+            "id",
+            "name",
+            "type",
+            "w"
+        ],
+        "without_nodes": false,
+        "node1": "tigre",
+        "#relations": 191,
+        "max_relation_weight": 897.0,
+        "#nodes": 192,
+        "duration": "0:00:00.012265"
+    }
+}
