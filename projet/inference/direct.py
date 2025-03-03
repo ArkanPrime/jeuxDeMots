@@ -1,26 +1,29 @@
 import requests
 from functools import lru_cache
 
-# URL de base de l'API
 BASE_URL = "https://jdm-api.demo.lirmm.fr/v0"
+session = requests.Session()  # Réutilise les connexions HTTP
 
-# Charger les types de relations
+@lru_cache(maxsize=32)
 def get_relation_types():
-    """Récupère et stocke tous les types de relations disponibles."""
+    """Récupère et met en cache tous les types de relations disponibles."""
     url = f"{BASE_URL}/relations_types"
-    response = requests.get(url)
-
+    response = session.get(url)
     if response.status_code == 200:
         data = response.json()
-        relations_dict = {rel["id"]: rel for rel in data}  # Associer ID → Infos
-        relations_dict.update({rel["name"]: rel for rel in data})  # Associer Name → Infos
-        relations_dict.update({rel["gpname"]: rel for rel in data})  # Associer Gpname → Infos
+        relations_dict = {rel["id"]: rel for rel in data}      # Index par ID
+        relations_dict.update({rel["name"]: rel for rel in data})  # Index par nom
+        relations_dict.update({rel["gpname"]: rel for rel in data})  # Index par gpname
         return relations_dict
     else:
         print("Erreur lors de la récupération des types de relations.")
         return {}
-    
-def direct_inference(node_a, relation, node_b): # on veut la relation sous forme name ou gpname
+
+def direct_inference(node_a, relation, node_b):
+    """
+    Effectue une inférence directe entre node_a et node_b pour un type de relation donné
+    (identifié par son name ou gpname) et retourne une liste de tuples (node_a, poids).
+    """
     relations_dict = get_relation_types()
     relation_info = relations_dict.get(relation)
     
@@ -34,19 +37,17 @@ def direct_inference(node_a, relation, node_b): # on veut la relation sous forme
         return []
     
     url = f"{BASE_URL}/relations/from/{node_a}/to/{node_b}?types_ids={relation_id}"
-    response = requests.get(url)
+    response = session.get(url)
     
     if response.status_code != 200:
-        print(f"Erreur: Requête échouée pour {node_a} {relation} {node_b} (Statut {response.status_code})")
         return []
     
     data = response.json()
     relations = data.get("relations", [])
-    results = []
-    
-    # ici on a juste les relations du bon type, on les ajoute à la liste des résultats avec juste le nom et poids
-    for rel in relations:
-        results.append((node_a, rel.get("w", 0)))
+    results = [(node_a, rel.get("w", 0)) for rel in relations]
     
     print(results)
     return results
+
+# Exemple d'utilisation :
+# direct_inference("kiwi", "r_agent-1", "voler")
